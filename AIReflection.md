@@ -22,8 +22,3 @@ AI supported my learning by acting like a guide or tutor instead of doing the wo
 
 This approach helped me build confidence and problem-solving skills, which are important for future assignments and real-world development work.
 
----
-
-## Acknowledgement
-
-I confirm that AI was used responsibly as a learning aid and not as a replacement for my own work or understanding.
